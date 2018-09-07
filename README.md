@@ -1,2 +1,2 @@
 # DataCanvas
-a web app using Javascript and HTML which functions as an educational tool for programmers; will dynamically generate visualizations of data structures (e.g. linked lists) as users create and populate them 
+An educational web tool, created by using SVG.JS and HTML/CSS, which dynamically generates visualizations of data structures (e.g. stack) as users create and populate them.
